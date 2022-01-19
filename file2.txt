@@ -1,1 +1,9 @@
 this is file 2
+this line is to  edit file2 for new commit 
+and add some more line 
+line 1
+line 2
+edit file2 more
+add some more line
+add more line
+line 1
